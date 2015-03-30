@@ -1,0 +1,61 @@
+---
+contentdir: "content"
+layoutdir: "layouts"
+publishdir: "public"
+indexes:
+  category: "categories"
+canonifyurls: true
+
+baseurl: "http://pythingy.github.io"
+languageCode: "pl-pl"
+title: "PyThingy"
+
+pygmentsuseclasses: true 
+theme:              hugo-incorporated
+
+params:
+  inc:
+    # Blog Information
+    title:        "PyThingy"
+    subtitle:     "Warsztaty Pythona w Krakowie"
+    cover_image:  typing.jpg
+    logo:         logo.png
+
+    # Company information
+    company:      PyThingy
+    url:          http://pythingy.github.io
+#    facebook:     
+    github:       pythingy
+    # twitter:      pythingy
+    slack:				pythingy
+#    gplus:        ''
+    about_link:   /about/
+
+    # Product Information
+    product_link: false
+    tagline:      "Uczymy się ćwicząc!"
+
+    # Comments
+    disqus:
+      # Set a shortname to enable disqus comments
+     shortname:  false
+
+    # Sharing settings
+    sharing:
+      twitter:    false
+      facebook:   false
+      gplus:      false
+      hn:         false
+
+   # Analytics     
+    analytics:
+     googleid: UA-00000000-0
+     piwik:
+       domain: example.com
+       siteid: 0
+
+    # Google Fonts
+    # eg. 'Droid+Sans:400,700|Droid+Serif:400,700'
+    google_font: 'Droid+Sans:400,700'
+
+    # Setup your fonts, colors etc at _assets/stylesheets/main.scss
