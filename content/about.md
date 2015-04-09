@@ -11,7 +11,7 @@ excerpt		= "Czytaj więcej"
 
 ![Magia?](/images/magic.png)
 
-Czy programowanie to magia? Nie musi tak być! :-)
+Czy programowanie to dla Ciebie nadal magia? Nie musi tak być!
 
 ## Spotykamy się: 
 
