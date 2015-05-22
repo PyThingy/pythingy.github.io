@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PyThingy</title>
-    <link>http://localhost:1313/</link>
+    <link>http://pythingy.github.io/</link>
     <description>Recent content on PyThingy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl-pl</language>
     <lastBuildDate>Mon, 30 Mar 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://pythingy.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>O PyThingy</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://pythingy.github.io/about/</link>
       <pubDate>Mon, 30 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://pythingy.github.io/about/</guid>
       <description>
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/magic.png&#34; alt=&#34;Magia?&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://pythingy.github.io/images/magic.png&#34; alt=&#34;Magia?&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Pełen entuzjazmu przebiłeś/łaś się przez kilka tutoriali dotyczących Pythona. Może masz już za sobą jakiś prosty projekt
@@ -49,7 +49,7 @@ przepaść dezorientacji i morze rozpaczy?&lt;/p&gt;
 
 &lt;h3 id=&#34;nasz-partner:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Nasz partner&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/prag_coders_logo.png&#34; alt=&#34;Pragmatic Coders&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://pythingy.github.io/images/prag_coders_logo.png&#34; alt=&#34;Pragmatic Coders&#34; /&gt;
 &lt;/p&gt;
 </description>
     </item>
