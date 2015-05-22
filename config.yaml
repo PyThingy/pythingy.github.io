@@ -24,9 +24,9 @@ params:
     # Company information
     company:      PyThingy
     url:          http://pythingy.github.io
-#    facebook:     
+    facebook:     pythingy
     github:       pythingy
-    # twitter:      pythingy
+    twitter:      PyThingy
     slack:				pythingy
 #    gplus:        ''
     about_link:   /about/

@@ -34,3 +34,7 @@ Każdy przez to przechodził. A że ćwiczenie czyni mistrza a co dwie głowy to
 *	dzielimy się wiedzą
 
 Wszystko po to by stanąć na własne nogi.
+
+
+### Nasz partner
+![Pragmatic Coders](/images/prag_coders_logo.png)
